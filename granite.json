@@ -3,102 +3,142 @@
         {
             "Granite_name": "VERDE JADE",
             "Location": "Texas",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "BIANCO TROPICAL",
             "Location": "Texas",
-            "country": "USA"
+            "color": "Black",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "NEW VENETIAN GOLD",
             "Location": "Texas",
-            "country": "USA"
+            "color": "Green",
+            "country": "USA",
+            "Catageory": "Flooring"
         },
         {
             "Granite_name": "GIALLO TROPICAL",
             "Location": "Texas",
-            "country": "USA"
+            "color": "Blue",
+            "country": "USA",
+            "Catageory": "Steps"
         },
         {
             "Granite_name": "BOREAL",
             "Location": "Texas",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "CRISTALINO LIGHT",
             "Location": "Texas",
-            "country": "USA"
+            "color": "silver",
+            "country": "USA",
+            "Catageory": "Flooring"
         },
         {
             "Granite_name": "VENETIAN GREEN",
             "Location": "Texas",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "Jadore",
             "Location": "Massachusetts",
-            "country": "USA"
+            "color": "Black",
+            "country": "USA",
+            "Catageory": "Flooring"
         },
         {
             "Granite_name": "Calacatta Gold Supreme",
             "Location": "Massachusetts",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "HALF BULLNOSE",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "Green",
+            "country": "USA",
+            "Catageory": "Steps"
         },
         {
             "Granite_name": "FULL BULLNOSE",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "Blue",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "BEVEL",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Flooring"
         },
         {
             "Granite_name": "DBL RADIUS",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "PENCIL",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "OGEE",
             "Location": "Indiana",
-            "country": "USA"
+            "color": "Black",
+            "country": "USA",
+            "Catageory": "Flooring"
         },
         {
             "Granite_name": "Montello Granite",
             "Location": "Wisconsin",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Steps"
         },
         {
             "Granite_name": "Amberg",
             "Location": "Wisconsin",
-            "country": "USA"
+            "color": "Blue",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "Athelstane",
             "Location": "Wisconsin",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "Berlin",
             "Location": "Wisconsin",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Kitchen"
         },
         {
             "Granite_name": "Utley Rhyolite",
             "Location": "Wisconsin",
-            "country": "USA"
+            "color": "White",
+            "country": "USA",
+            "Catageory": "Steps"
         }
     ]
 }
